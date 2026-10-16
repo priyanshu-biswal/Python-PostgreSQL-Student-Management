@@ -4,7 +4,7 @@ from psycopg2 import sql
 DB_PARAMS = {
     "dbname": "students_db",
     "user": "postgres",
-    "password": "12345678",
+    "password": "YOUR_PASSWORD",
     "host": "localhost",
     "port": "5432"
 }
